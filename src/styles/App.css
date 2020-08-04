@@ -23,7 +23,7 @@ body {
 }
 
 .title {
-  align-self: center;
+  position: top;
   font-size: 1.5rem;
   font-weight: 250;
   color: #dd2020;
@@ -74,7 +74,7 @@ li {
 }
 
 img {
-  height: 50px;
+  height: 60px;
 }
 
 button.action {
