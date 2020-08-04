@@ -23,9 +23,9 @@ body {
 }
 
 .title {
-  align-self: flex-start;
-  font-size: 3rem;
-  font-weight: 300;
+  align-self: center;
+  font-size: 1.5rem;
+  font-weight: 250;
   color: #333;
   margin-bottom: 30px;
 }
@@ -46,7 +46,7 @@ input {
 }
 
 button {
-  background: #9fbfdf;
+  background: #8cb3d9;
   border: none;
   font-size: 1rem;
   font-weight: 300;
