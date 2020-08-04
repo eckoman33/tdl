@@ -9,7 +9,7 @@
 
 body {
   background: rgb(244, 243, 243);
-  font-family: "Lato", sans-serif;
+  font-family: 'Press Start 2P', cursive;
 }
 
 .wrapper {
@@ -50,7 +50,7 @@ button {
   border: none;
   font-size: 1rem;
   font-weight: 300;
-  font-family: "Lato", sans-serif;
+  font-family: 'Press Start 2P', cursive;
   padding: 15px 25px;
   border-radius: 4px;
   color: #fff;
