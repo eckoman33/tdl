@@ -22,7 +22,7 @@ body {
   padding: 50px;
 }
 
-.title {
+h1 {
   position: top;
   font-size: 1.5rem;
   font-weight: 250;
@@ -78,7 +78,7 @@ img {
 }
 
 button.action {
-  color: #a5a2a2;
+  color: #000000;
   background: none;
   padding: 0;
 }
